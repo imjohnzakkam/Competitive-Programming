@@ -71,4 +71,4 @@ Apart from these regular ones, there are other worldwide competitions such as :
 * [Facebook Hacker Cup](https://www.facebook.com/hackercup/)
 * [ACM ICPC](https://icpc.baylor.edu/) This is also top level 
 
-Cracking a coding contest is all about participation. Anyone won't get first prize in their first participation. All you've to have is patience
+Cracking a coding contest is all about participation. No one will get first prize in their first participation. All you've to have is patience
