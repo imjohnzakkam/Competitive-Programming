@@ -30,13 +30,13 @@ Some recommended youtube videos are :
 * [For begginers](https://www.youtube.com/watch?v=-CpG3oATGIs)
 > After that you can go practice real time as you already have enough experience on one of the programming languages. 
 The paltforms on which you can practice coding are ( suggested sequence ):
-* [Hackerrank](hackerrank.com)
-* [Codechef](codechef.com)
-* [Code Forces](codeforces.com)
+* [Hackerrank](https://hackerrank.com)
+* [Codechef](https://codechef.com)
+* [Code Forces](https://codeforces.com)
 One suggestion would be in Codeforces you could try long challenges and then can jump to short challenges. 
 
 Other platforms to practice : 
-* [topcoder](topcoder.com)
+* [topcoder](https://topcoder.com)
 *
 *
 *
@@ -57,11 +57,11 @@ Some good practices for maintaining consistency are :
 
 > Once you have enough practice you can participate in Coding Competitons either online or offline
 Coding competitons are held almost everytime in Coding Platforms such as :
-* [Hackerrank](hackerrank.com)
-* [Codechef](codechef.com)
-* [Code Forces](codeforces.com)
-* [topcoder](topcoder.com)
-> There is also a website for the live and ongoing coding competions [clist.by](clist.by)
+* [Hackerrank](https://hackerrank.com)
+* [Codechef](https://codechef.com)
+* [Code Forces](https://codeforces.com)
+* [topcoder](https://topcoder.com)
+> There is also a website for the live and ongoing coding competions [clist.by](https://clist.by)
 > Also check out the extension on firefox called [Coder's Calendar](https://addons.mozilla.org/en-US/firefox/addon/coder-s-calendar/?src=search)
 Apart from these regular ones, there are other worldwide competitions such as : 
 * [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart) There are many rounds for this. You can try starting here for global challenges
