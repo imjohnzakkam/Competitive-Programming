@@ -9,7 +9,7 @@ There is a lot from CP to explore .. so maybe a list of contents ?
 * [Basics](#Basics)
 * [Starting](#Starting)
 * [Consistency](#Consistency)
-* [Cracking Coding Competitions](#Cracking Coding Competitons)
+* [Cracking Coding Competitions](#Cracking_Coding_Competitons)
 
 ## Basics 
 > Many people fear CP ! It's actually great fun.
@@ -52,7 +52,7 @@ Some good practices for maintaining consistency are :
 * Checking out some good texts about CP.
 * Commitment, Determination are the keys to success.
 
-## Cracking Coding Competions 
+## Cracking_Coding_Competions 
 
 > Once you have enough practice you can participate in Coding Competitons either online or offline
 Coding competitons are held almost everytime in Coding Platforms such as :
