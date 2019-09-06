@@ -70,4 +70,5 @@ Apart from these regular ones, there are other worldwide competitions such as :
 * [India's top Coding Contest](https://www.techgig.com/codegladiators) CODE GLADIATORS
 * [Facebook Hacker Cup](https://www.facebook.com/hackercup/)
 * [ACM ICPC](https://icpc.baylor.edu/) This is also top level 
+
 Cracking a coding contest is all about participation. Anyone won't get first prize in their first participation. All you've to have is patience
