@@ -22,6 +22,7 @@ If you are just figuring out what CP is, dont be worried everybody will get the 
 * [CS Dojo](https://www.youtube.com/watch?v=mElVGah7Epg)
 > Some books to refer 
 * Programming Challenges Steven Skiena
+> [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) course will help you build up your interest. 
 
 These videos help a lot..please do check them out !
 
@@ -55,7 +56,7 @@ Some good practices for maintaining consistency are :
 * Checking out some good texts about CP.
 * Commitment, Determination are the keys to success.
 
-## Cracking_Coding_Competions 
+## Coding_Competions 
 
 > Once you have enough practice you can participate in Coding Competitons either online or offline
 Coding competitons are held almost day in Coding Platforms such as :
@@ -73,5 +74,5 @@ Apart from these regular ones, there are other worldwide competitions such as :
 * [Facebook Hacker Cup](https://www.facebook.com/hackercup/)
 * [ACM ICPC](https://icpc.baylor.edu/) This is also top level 
 
-One has to realize there is a difference between hackathon and a coding competion 
-A coding contest is all about participation. No one will get first prize in their first participation. All you've to have is patience and never stop trying. 
+>One has to realize there is a difference between hackathon and a coding competion [read more](https://www.quora.com/What-are-the-difference-between-boot-camp-hackathon-and-programming-competition). 
+>A coding contest is all about participation. No one will get first prize in their first participation. All you've to have is patience and never stop trying. 
