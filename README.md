@@ -20,6 +20,9 @@ If you are just figuring out what CP is, dont be worried everybody will get the 
 > Some of my favourite videos on youtube which give an good idea of Comp Sci are :
 * [Rachit Jain](https://www.youtube.com/watch?v=jl86tYr7emg)
 * [CS Dojo](https://www.youtube.com/watch?v=mElVGah7Epg)
+> Some books to refer 
+* Programming Challenges Steven Skiena
+> [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) course will help you build up your interest. 
 
 These videos help a lot..please do check them out !
 
@@ -28,18 +31,18 @@ These videos help a lot..please do check them out !
 > After taking up one programming language, you can watch youtube tutorials to get an in-depth view of that particular programming lanuage
 Some recommended youtube videos are :
 * [For begginers](https://www.youtube.com/watch?v=-CpG3oATGIs)
+> One can also checkout these websites to get used to programming logic
+* [For begginers](https://www.programiz.com/c-programming)
+* [Next level](https://www.geeksforgeeks.org/)
 > After that you can go practice real time as you already have enough experience on one of the programming languages. 
 The paltforms on which you can practice coding are ( suggested sequence ):
 * [Hackerrank](https://hackerrank.com)
-* [Codechef](https://codechef.com)
-* [Code Forces](https://codeforces.com)
-One suggestion would be in Codeforces you could try long challenges and then can jump to short challenges. 
+* [Codechef](https://codechef.com) 
 
 Other platforms to practice : 
 * [topcoder](https://topcoder.com)
-*
-*
-*
+* [hackerearth](https://www.hackerearth.com/practice/) 
+* [Code Forces](https://codeforces.com)   etc..
 
 You can practice on any platform you like ! Its all about exploring.
 
@@ -53,13 +56,13 @@ Some good practices for maintaining consistency are :
 * Checking out some good texts about CP.
 * Commitment, Determination are the keys to success.
 
-## Cracking_Coding_Competions 
+## Coding_Competions 
 
 > Once you have enough practice you can participate in Coding Competitons either online or offline
-Coding competitons are held almost everytime in Coding Platforms such as :
-* [Hackerrank](https://hackerrank.com)
+Coding competitons are held almost day in Coding Platforms such as :
 * [Codechef](https://codechef.com)
-* [Code Forces](https://codeforces.com)
+* [Code Forces](https://codeforces.com) One suggestion would be in Codeforces you could try long challenges and then can jump to short challenges
+* [Hackerrank](https://hackerrank.com)
 * [topcoder](https://topcoder.com)
 > There is also a website for the live and ongoing coding competions [clist.by](https://clist.by)
 > Also check out the extension on firefox called [Coder's Calendar](https://addons.mozilla.org/en-US/firefox/addon/coder-s-calendar/?src=search)
@@ -71,4 +74,5 @@ Apart from these regular ones, there are other worldwide competitions such as :
 * [Facebook Hacker Cup](https://www.facebook.com/hackercup/)
 * [ACM ICPC](https://icpc.baylor.edu/) This is also top level 
 
-Cracking a coding contest is all about participation. No one will get first prize in their first participation. All you've to have is patience
+>One has to realize there is a difference between hackathon and a coding competion [read more](https://www.quora.com/What-are-the-difference-between-boot-camp-hackathon-and-programming-competition). 
+>A coding contest is all about participation. No one will get first prize in their first participation. All you've to have is patience and never stop trying. 
