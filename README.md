@@ -9,7 +9,7 @@ There is a lot from CP to explore .. so maybe a list of contents ?
 * [Basics](#Basics)
 * [Starting](#Starting)
 * [Consistency](#Consistency)
-* [Cracking Coding Competitions](#Cracking_Coding_Competitons)
+* [Coding Competitions](#Coding_Competitons)
 
 ## Basics 
 > Many people fear CP ! It's actually great fun.
