@@ -22,7 +22,7 @@ If you are just figuring out what CP is, dont be worried everybody will get the 
 * [CS Dojo](https://www.youtube.com/watch?v=mElVGah7Epg)
 > Some books to refer 
 * Programming Challenges Steven Skiena
-> [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) course will help you build up your interest. 
+> Check out this course [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) it will help you build up your interest. 
 
 These videos help a lot..please do check them out !
 
