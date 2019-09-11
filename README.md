@@ -51,7 +51,7 @@ You can practice on any platform you like ! Its all about exploring.
 > Consistency is the key here too, a lot of people fail at this stage. That is because they don't get to know how fun solving differnt problems is 
 
 Some good practices for maintaining consistency are : 
-* Figuring out which platform intrests you. 
+* Figuring out which platform interests you. 
 * Exploring different Algorithms and Data Structures.
 * Checking out some good texts about CP.
 * Commitment, Determination are the keys to success.
