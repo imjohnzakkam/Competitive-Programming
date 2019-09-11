@@ -14,14 +14,12 @@ There is a lot from CP to explore .. so maybe a list of contents ?
 ## Basics 
 > Many people fear CP ! It's actually great fun.
 
-First of all what is CP ?, Its all about solving problems 
+First of all what is CP ?, Its all about thinking logically and coding your ideas. 
 All you need is one good programming language to start with and lots of passion.
 If you are just figuring out what CP is, dont be worried everybody will get the hang of it.
-> Some of my favourite videos on youtube which give an good idea of Comp Sci are :
+> Some of our favourite videos on youtube which give an good idea of Comp Sci are :
 * [Rachit Jain](https://www.youtube.com/watch?v=jl86tYr7emg)
 * [CS Dojo](https://www.youtube.com/watch?v=mElVGah7Epg)
-> Some books to refer 
-* Programming Challenges Steven Skiena
 > Check out this course [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) it will help you build up your interest. 
 
 These videos help a lot..please do check them out !
@@ -31,30 +29,34 @@ These videos help a lot..please do check them out !
 > After taking up one programming language, you can watch youtube tutorials to get an in-depth view of that particular programming lanuage
 Some recommended youtube videos are :
 * [For begginers](https://www.youtube.com/watch?v=-CpG3oATGIs)
-> One can also checkout these websites to get used to programming logic
+> One can also checkout these websites to get used to programming logic :
 * [For begginers](https://www.programiz.com/c-programming)
 * [Next level](https://www.geeksforgeeks.org/)
-> After that you can go practice real time as you already have enough experience on one of the programming languages. 
+> Some books to refer :
+* Programming Challenges Steven Skiena 
+> After that you can go practice real time as you already have enough experience on one of the programming languages.
+* Some documentations you can go through : 
+> [Awesome Competitive Programming](https://codeforces.com/blog/entry/23054)
 The paltforms on which you can practice coding are ( suggested sequence ):
 * [Hackerrank](https://hackerrank.com)
 * [Codechef](https://codechef.com) 
+* [Code Forces](https://codeforces.com)
 
 Other platforms to practice : 
 * [topcoder](https://topcoder.com)
-* [hackerearth](https://www.hackerearth.com/practice/) 
-* [Code Forces](https://codeforces.com)   etc..
+* [hackerearth](https://www.hackerearth.com/practice/)  etc..
 
 You can practice on any platform you like ! Its all about exploring.
 
 ## Consistency 
 
-> Consistency is the key here too, a lot of people fail at this stage. That is because they don't get to know how fun solving differnt problems is 
+> Consistency is the key here too, a lot of people fail at this stage. That is because they don't get to know how fun solving differnt problems is.  
 
 Some good practices for maintaining consistency are : 
 * Figuring out which platform interests you. 
 * Exploring different Algorithms and Data Structures.
-* Checking out some good texts about CP.
-* Commitment, Determination are the keys to success.
+
+Commitment, Determination are the keys to success so, keep coding!!!
 
 ## Coding_Competions 
 
@@ -72,6 +74,7 @@ Apart from these regular ones, there are other worldwide competitions such as :
 * [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam) *THIS IS THE TOP CODING COMPETITION FOR GOOGLE* 
 * [India's top Coding Contest](https://www.techgig.com/codegladiators) - CODE GLADIATORS
 * [Facebook Hacker Cup](https://www.facebook.com/hackercup/)
+* [codeAgon]()
 * [ACM ICPC](https://icpc.baylor.edu/) This is also top level 
 
 >One has to realize there is a difference between hackathon and a coding competion [read more](https://www.quora.com/What-are-the-difference-between-boot-camp-hackathon-and-programming-competition). 
