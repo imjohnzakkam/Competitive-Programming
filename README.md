@@ -77,5 +77,5 @@ Apart from these regular ones, there are other worldwide competitions such as :
 * [codeAgon]()
 * [ACM ICPC](https://icpc.baylor.edu/) This is also top level 
 
->One has to realize there is a difference between hackathon and a coding competion [read more](https://www.quora.com/What-are-the-difference-between-boot-camp-hackathon-and-programming-competition). 
->A coding contest is all about participation. No one will get first prize in their first participation. All you've to have is patience and never stop trying. 
+>One has to realize there is a difference between hackathon and a coding competion [read more](https://www.quora.com/What-are-the-difference-between-boot-camp-hackathon-and-programming-competition) and
+>a coding contest is all about participation. No one will get first prize in their first participation. All you've to have is patience and never stop trying. 
