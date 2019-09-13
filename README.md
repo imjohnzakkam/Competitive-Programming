@@ -34,8 +34,9 @@ Some recommended youtube videos are :
 * [Next level](https://www.geeksforgeeks.org/)
 > Some books to refer : 
 * [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
-* [CSES Problem Set](https://cses.fi/problemset/)
 * Programming Challenges Steven Skiena
+> Problem Sets :
+* [CSES Problem Set](https://cses.fi/problemset/)
 > After that you can go practice real time as you already have enough experience on one of the programming languages.
 * Some documentations you can go through : 
 > [Awesome Competitive Programming](https://codeforces.com/blog/entry/23054)
