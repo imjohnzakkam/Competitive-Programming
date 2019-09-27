@@ -35,6 +35,8 @@ Some recommended youtube videos are :
 > Some books to refer : 
 * [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
 * Programming Challenges Steven Skiena (Its uploaded on the repo)
+
+* [See this cool repo for all programming related books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) you can find most books related to programming here .
 > Problem Sets :
 * [CSES Problem Set](https://cses.fi/problemset/)
 > After that you can go practice real time as you already have enough experience on one of the programming languages.
