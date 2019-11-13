@@ -39,6 +39,7 @@ Some recommended youtube videos are :
 * [studytonight.com](https://www.studytonight.com/)
 * [freecodecamp](https://www.freecodecamp.org/)
 * [learnxinyminutes](https://learnxinyminutes.com/)
+* [Some books for proffesionals](https://goalkicker.com/)
 
 * [See this cool repo for all programming related books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) you can find most books related to programming here .
 > Problem Sets :
