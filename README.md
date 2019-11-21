@@ -65,6 +65,7 @@ You can practice on any platform you like ! Its all about exploring.
 Some good practices for maintaining consistency are : 
 * Figuring out which platform interests you. 
 * Exploring different Algorithms and Data Structures.
+* A good website for data structures and algorithms visulaiztion is [this from university of san fransisco](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 Commitment, Determination are the keys to success so, keep coding!!!
 
