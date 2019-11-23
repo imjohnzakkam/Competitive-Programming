@@ -41,6 +41,8 @@ Some recommended youtube videos are :
 * [learnxinyminutes](https://learnxinyminutes.com/)
 * [Some books for proffesionals](https://goalkicker.com/)
 
+* Free Udemy courses (selected) can be downloaded through a torrent [here](https://freecoursesite.com/master-the-coding-interview-data-structures-algorithms/)
+
 * [See this cool repo for all programming related books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) you can find most books related to programming here .
 > Problem Sets :
 * [CSES Problem Set](https://cses.fi/problemset/)
