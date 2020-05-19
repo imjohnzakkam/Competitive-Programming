@@ -88,7 +88,7 @@ Apart from these regular ones, there are other worldwide competitions such as :
 * [India's top Coding Contest](https://www.techgig.com/codegladiators) - CODE GLADIATORS
 * [Facebook Hacker Cup](https://www.facebook.com/hackercup/)
 * [codeAgon]()
-* [ACM ICPC](https://icpc.baylor.edu/) This is also top level 
+* [ACM ICPC](https://icpc.baylor.edu/) This is the dream for many CPers  
 
 >One has to realize there is a difference between hackathon and a coding competion [read more](https://www.quora.com/What-are-the-difference-between-boot-camp-hackathon-and-programming-competition) and
 >a coding contest is all about participation. No one will get first prize in their first participation. All you've to have is patience and never stop trying. 
